@@ -23,6 +23,10 @@ make demo
 
 You'll see a report written to `reports/YYYY-MM-DD_example_subject.json` with the metadata, reviews, an offline-template summary, and suggested replies for sub-4-star reviews.
 
+📘 **Want a full step-by-step walkthrough?** Read [GETTING_STARTED.md](GETTING_STARTED.md) — covers API key setup, going live, scheduling weekly via cron or GitHub Actions, and troubleshooting.
+
+🧰 **Prefer no-code?** The same pipeline as an importable n8n workflow lives in [`n8n/`](n8n/) with a node-by-node walkthrough.
+
 ## Going live
 
 ```bash
