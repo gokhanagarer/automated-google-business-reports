@@ -1,0 +1,9 @@
+{
+  "subjects": [
+    {
+      "name": "Example Subject",
+      "place_id": "ChIJEXAMPLE_REPLACE_WITH_REAL_PLACE_ID"
+    }
+  ],
+  "tone": "professional and friendly"
+}

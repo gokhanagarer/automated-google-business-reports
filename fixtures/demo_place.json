@@ -1,0 +1,36 @@
+{
+  "id": "places/EXAMPLE_PLACE_ID",
+  "displayName": {"text": "Example Subject"},
+  "rating": 4.3,
+  "userRatingCount": 187,
+  "currentOpeningHours": {"openNow": true},
+  "websiteUri": "https://example.com",
+  "formattedAddress": "1 Example Street, Anywhere",
+  "reviews": [
+    {
+      "rating": 5,
+      "text": {"text": "Quick, smooth experience from start to finish. Would recommend to anyone."},
+      "authorAttribution": {"displayName": "Alex P."}
+    },
+    {
+      "rating": 4,
+      "text": {"text": "Mostly great. A small wait at the end but nothing to complain about."},
+      "authorAttribution": {"displayName": "Jordan W."}
+    },
+    {
+      "rating": 2,
+      "text": {"text": "Wait time was way too long and the staff seemed overwhelmed. Hoping for improvement."},
+      "authorAttribution": {"displayName": "Sam D."}
+    },
+    {
+      "rating": 5,
+      "text": {"text": "Repeat visitor. Consistently friendly and fast — exactly what I want."},
+      "authorAttribution": {"displayName": "Riley M."}
+    },
+    {
+      "rating": 1,
+      "text": {"text": "Booked online, showed up, and the reservation wasn't in the system. Frustrating."},
+      "authorAttribution": {"displayName": "Casey B."}
+    }
+  ]
+}
